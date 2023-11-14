@@ -1,0 +1,11 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( Ä¦àùÿÿÿÿ
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Ğ‘
+P
+java:S2209"5Change this instance-reference to a static reference.(¡şÁ¢ùÿÿÿÿ
+o
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(’¼˜¡8ŠŠ‰ÍÈ0
+E
+java:S1481X"0Remove this unused "numBestHand" local variable.(ˆàŞ}

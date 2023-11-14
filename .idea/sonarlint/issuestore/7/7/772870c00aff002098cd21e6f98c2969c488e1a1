@@ -1,0 +1,97 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(³ùÑ”ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(÷ˆ“üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(÷ˆ“üÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ü¥ÉÜ
+E
+java:S3740"/Provide the parametrized type for this generic.(úà¥’
+E
+java:S3740"/Provide the parametrized type for this generic.(úà¥’
+D
+java:S3740"/Provide the parametrized type for this generic.(Ù©ÛS
+J
+java:S3740$"/Provide the parametrized type for this generic.(¯ãÒ§úÿÿÿÿ
+J
+java:S3740&"/Provide the parametrized type for this generic.(ÄÃÓòøÿÿÿÿ
+J
+java:S3740&"/Provide the parametrized type for this generic.(ÄÃÓòøÿÿÿÿ
+D
+java:S37400"/Provide the parametrized type for this generic.(Ù©ÛS
+E
+java:S37407"/Provide the parametrized type for this generic.(éïë
+E
+java:S3740;"/Provide the parametrized type for this generic.(Æ‚‚Ö
+E
+java:S3740;"/Provide the parametrized type for this generic.(Æ‚‚Ö
+D
+java:S3740@"/Provide the parametrized type for this generic.(Ù©ÛS
+J
+java:S3740G"/Provide the parametrized type for this generic.(ÔïƒÕüÿÿÿÿ
+E
+java:S3740["/Provide the parametrized type for this generic.(“ß„
+J
+java:S3740`"/Provide the parametrized type for this generic.(“˜µßıÿÿÿÿ
+J
+java:S3740`"/Provide the parametrized type for this generic.(“˜µßıÿÿÿÿ
+D
+java:S3740e"/Provide the parametrized type for this generic.(Ù©ÛS
+M
+java:S3740š"/Provide the parametrized type for this generic.(â¤Ü¾8ø¨ ¹È0
+M
+java:S3740"/Provide the parametrized type for this generic.(ŞÁò8ú¨ ¹È0
+R
+java:S3740¡"/Provide the parametrized type for this generic.(­½¥èùÿÿÿÿ8û¨ ¹È0
+o
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºş‹×
+o
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ˆ€˜
+o
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûùíJ
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÄ‚µúÿÿÿÿ8ıÊÑÍÈ0
+w
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘è¸¢8© ¹È0
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³ùÑ”ıÿÿÿÿ
+
+java:S1319"dThe type of "hand" should be an interface such as "List" rather than the implementation "ArrayList".(³ùÑ”ıÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ü¥ÉÜ
+z
+java:S1319"dThe type of "hand" should be an interface such as "List" rather than the implementation "ArrayList".(ü¥ÉÜ
+‹
+java:S1319$"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯ãÒ§úÿÿÿÿ
+
+java:S1319$"dThe type of "hand" should be an interface such as "List" rather than the implementation "ArrayList".(¯ãÒ§úÿÿÿÿ
+†
+java:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éïë
+z
+java:S13197"dThe type of "hand" should be an interface such as "List" rather than the implementation "ArrayList".(éïë
+‹
+java:S1319G"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÔïƒÕüÿÿÿÿ
+
+java:S1319G"dThe type of "hand" should be an interface such as "List" rather than the implementation "ArrayList".(ÔïƒÕüÿÿÿÿ
+†
+java:S1319["pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“ß„
+z
+java:S1319["dThe type of "hand" should be an interface such as "List" rather than the implementation "ArrayList".(“ß„
+†
+java:S1319k"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ïšÒì
+z
+java:S1319k"dThe type of "hand" should be an interface such as "List" rather than the implementation "ArrayList".(ïšÒì
+“
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(€à£ûÿÿÿÿ8“© ¹È0
+
+java:S1319š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(â¤Ü¾8”© ¹È0
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…´¦îùÿÿÿÿ
+L
+java:S1940")Use the opposite operator ("!=") instead.(ä•ŒÚùÿÿÿÿ8³® ¹È0
+A
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

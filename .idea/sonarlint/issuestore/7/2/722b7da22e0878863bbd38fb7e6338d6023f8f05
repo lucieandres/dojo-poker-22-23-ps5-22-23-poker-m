@@ -1,0 +1,19 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(…ƒñØúÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(İÊùœ
+
+java:S1319"fThe type of "values" should be an interface such as "List" rather than the implementation "ArrayList".(…ƒñØúÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İÊùœ
+{
+java:S1319"eThe type of "other" should be an interface such as "List" rather than the implementation "ArrayList".(ªÁªÌ
+f
+java:S1206&"PThis class overrides "equals()" and should therefore also override "hashCode()".(’ÜÇŞ
+^
+java:S6201'"HReplace this instanceof check and cast with 'instanceof Combine combine'(•¶–Ó
+^
+java:S6201'"HReplace this instanceof check and cast with 'instanceof Combine combine'(•¶–Ó
+h
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ã”“‘

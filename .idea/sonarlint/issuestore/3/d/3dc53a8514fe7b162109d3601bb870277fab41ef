@@ -1,0 +1,20 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úª¥Ç
+t
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ‡¬¼ûÿÿÿÿ
+s	java:S127;"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ßÑñ×È0
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ßÒœš
+ˆ
+java:S1319""mThe type of "listOfCombine" should be an interface such as "List" rather than the implementation "ArrayList".(Å„ƒ¡ıÿÿÿÿ
+‹
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜ÌÅÿÿÿÿÿ
+A
+java:S2160"+Override the "equals" method in this class.(şĞË
+E
+java:S1948"/Make "listOfCombine" transient or serializable.(Úª¥Ç
+H
+java:S1948"-Make "cardFactory" transient or serializable.(°¬º«şÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(šˆå·

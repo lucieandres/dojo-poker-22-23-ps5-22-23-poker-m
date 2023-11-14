@@ -1,0 +1,11 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ß÷©ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À¿®ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«Ú¨Úûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž¼ŒÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŽùÉ–ýÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„”Êüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–‚’‘
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñð™ëúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÛÏ½ûÿÿÿÿ
